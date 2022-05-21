@@ -1,0 +1,3 @@
+class: cat, file: 140.jpg
+class: cat, file: 92.jpg
+class: dog, file: 264.jpg
